@@ -6,8 +6,9 @@ A shell script to visualise the first 10,000 digits of π
 
 ### How to Run
 
-1. `sudo apt-get install imagemagick pi`
-2. `chmod +x pi.sh`
-3. `./pi.sh`
-
+```
+sudo apt-get install imagemagick pi
+chmod +x pi.sh
+./pi.sh
+```
 The image will be stored in the same directory as `pi-10000.png`
