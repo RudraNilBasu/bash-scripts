@@ -1,4 +1,4 @@
-First 10,000 digits of pie
+#First 10,000 digits of pie
 
 A shell script to visualise the first 10,000 digits of π
 
